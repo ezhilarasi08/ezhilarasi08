@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ezhilarasi08
-- 👀 I’m interested in front end developer
-- 🌱 I’m currently learning web developing management
-- 💞️ I’m looking to collaborate on any software company
+- 👀 I’m a UI developer
 - 📫 How to reach me ezhilarasi0898@gmail.com
 
 <!---
